@@ -1,0 +1,14 @@
+D:\MY\c#\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\MY\c#\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\MY\c#\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\MY\c#\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\MY\c#\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+D:\MY\c#\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\MY\c#\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\MY\c#\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\MY\c#\Tetris\Tetris\obj\Debug\Tetris.pdb
+D:\MY\c#\Tetris\Tetris\bin\Debug\Tetris.exe.manifest
+D:\MY\c#\Tetris\Tetris\bin\Debug\Tetris.application
+D:\MY\c#\Tetris\Tetris\obj\Debug\Tetris.TrustInfo.xml
+D:\MY\c#\Tetris\Tetris\obj\Debug\Tetris.exe.manifest
+D:\MY\c#\Tetris\Tetris\obj\Debug\Tetris.application
